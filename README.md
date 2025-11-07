@@ -100,16 +100,16 @@ If you choose to use OpenAI hosted models, remove the base URL and insert your A
 
 ### VLLM
 
-[https://docs.vllm.ai/en/latest/serving/openai_compatible_server/](https://docs.vllm.ai/en/latest/serving/openai_compatible_server/)
-[https://docs.vllm.ai/en/latest/getting_started/quickstart/](https://docs.vllm.ai/en/latest/getting_started/quickstart/)
+- [https://docs.vllm.ai/en/latest/serving/openai_compatible_server/](https://docs.vllm.ai/en/latest/serving/openai_compatible_server/)
+- [https://docs.vllm.ai/en/latest/getting_started/quickstart/](https://docs.vllm.ai/en/latest/getting_started/quickstart/)
 
 ### HuggingFace
 
-[https://huggingface.co/models?other=LLM](https://huggingface.co/models?other=LLM)
-[https://huggingface.co/meta-llama](https://huggingface.co/meta-llama)
-[https://huggingface.co/google](https://huggingface.co/google)
+- [https://huggingface.co/models?other=LLM](https://huggingface.co/models?other=LLM)
+- [https://huggingface.co/meta-llama](https://huggingface.co/meta-llama)
+- [https://huggingface.co/google](https://huggingface.co/google)
 
 ### OpenAI (Optional)
 
-[https://platform.openai.com/docs/overview](https://platform.openai.com/docs/overview)
+- [https://platform.openai.com/docs/overview](https://platform.openai.com/docs/overview)
 
