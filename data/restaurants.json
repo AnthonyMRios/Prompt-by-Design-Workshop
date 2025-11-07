@@ -1,0 +1,178 @@
+[
+  {
+    "text": "I love comfort cafe off Starcrest in that little shopping center area I forgot the name of the center.",
+    "entities": [{ "name": "comfort cafe", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Comfort Cafe was really good.",
+    "entities": [{ "name": "Comfort Cafe", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Mi Tierra for Breakfast? A lot of people say that place sucks altogether.",
+    "entities": [{ "name": "Mi Tierra", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "ETA: Garcia’s for their brisket taco.",
+    "entities": [{ "name": "Garcia’s", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Blanco Cafe (the one on Blanco) has great enchiladas too.",
+    "entities": [{ "name": "Blanco Cafe", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "There's a food truck that goes around called 3B BBQ.",
+    "entities": [{ "name": "3B BBQ", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Good list but I would add a torta ahogada from Roho Pork and Bread 🥖",
+    "entities": [{ "name": "Roho Pork and Bread", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "La Birrieria on Perrin Beitel absolutely!",
+    "entities": [{ "name": "La Birrieria", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Paloma Blanca on Broadway has great ceviche and a great atmosphere.",
+    "entities": [{ "name": "Paloma Blanca", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Tycoon Flats on St Mary's for a good burger flight and some drinks.",
+    "entities": [{ "name": "Tycoon Flats", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Thai Dee has the best glass noodles, I forgot what it's called, I've ever had!",
+    "entities": [{ "name": "Thai Dee", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Curry Boys BBQ, just not something you'll be likely to find elsewhere",
+    "entities": [{ "name": "Curry Boys BBQ", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "SP Cafe does have some bomb bahn mi.",
+    "entities": [{ "name": "SP Cafe", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Two Pocha is far better in Selma.",
+    "entities": [{ "name": "Two Pocha", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Leche de Tigre is just so good and so unique",
+    "entities": [{ "name": "Leche de Tigre", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Tre Trattoria behind the art museum and Jardin next to the arboretum.",
+    "entities": [{ "name": "Tre Trattoria", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Kung fu noodle for their noodle bowl and dumpling combo (don’t get the beef, get lamb or pork)",
+    "entities": [{ "name": "Kung fu noodle", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "La Fonda on Main. The menu is a collection of enchiladas you won’t often find, particularly in one place.",
+    "entities": [{ "name": "La Fonda on Main", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Fred’s Fish Fry",
+    "entities": [{ "name": "Fred’s Fish Fry", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Lot of good choices so far but you can't forget Tip-Top on Fredericksburg rd.",
+    "entities": [{ "name": "Tip-Top", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Henry's Puffy Tacos (on Bandera) is, at least for me, the gold standard",
+    "entities": [{ "name": "Henry's Puffy Tacos", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Go to the original Ray's Drive Inn to try it.",
+    "entities": [{ "name": "Ray's Drive Inn", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Marias Cafe off nogalitos for breakfast tacos, very underrated",
+    "entities": [{ "name": "Marias Cafe", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Original Blanco Cafe on Fredericksburg.",
+    "entities": [{ "name": "Original Blanco Cafe", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Chris Madrid's, my favorite burger spot in the city",
+    "entities": [{ "name": "Chris Madrid's", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "I thought so too until I tried Diane's Diner.",
+    "entities": [{ "name": "Diane's Diner", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "410 diner has always been a favorite for me, with their pan fried fish, some unique sidishes like their Sonoma casserole, and their amazing mushroom artichoke soup.",
+    "entities": [{ "name": "410 diner", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Don’t sleep on Wayne’s Wings! Best wings in TX.🤙",
+    "entities": [{ "name": "Wayne’s Wings", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Haven’t seen anyone mention stix and stone.",
+    "entities": [{ "name": "stix and stone", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Brasserie Mon Chou Chou in the Pearl",
+    "entities": [{ "name": "Brasserie Mon Chou Chou", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "If I had to pick one, it would be Restaurant Claudine.",
+    "entities": [{ "name": "Restaurant Claudine", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Schilo’s on Commerce Street (downtown) but it’s only open for breakfast and lunch.",
+    "entities": [{ "name": "Schilo’s", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Station Cafe near Caesar Chavez.",
+    "entities": [{ "name": "Station Cafe", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Taco Palanque on 410 also slaps for greasy TexMex",
+    "entities": [{ "name": "Taco Palanque", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "You have to try Myung ga won best Korean place here",
+    "entities": [{ "name": "Myung ga won", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "You might also want to try some Panaderias, if you havent. Also, Paleterias, there are many, some also with street food/snacks (210 Ice Cream). One staple here is El Paraiso, which is where people buy popsicles for fundraisers and to sell at parks.",
+    "entities": [{ "name": "El Paraiso", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Also adding in Birria Kings and if you're a Mexican candy/chamoy person, Chamoy Dreams food truck (which is next to Birria Kings) and stock up at Alamo Candy with stuff to take with you.",
+    "entities": [
+      { "name": "Birria Kings", "label": "RESTAURANT" },
+      { "name": "Chamoy Dreams", "label": "RESTAURANT" },
+      { "name": "Alamo Candy", "label": "RESTAURANT" }
+    ]
+  },
+  {
+    "text": "If you haven’t been to Back Unturned micro brewery, go there.",
+    "entities": [{ "name": "Back Unturned micro brewery", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Salt Lick BBQ in dripping springs.",
+    "entities": [{ "name": "Salt Lick BBQ", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Bill Millers on Zarzamora",
+    "entities": [{ "name": "Bill Millers", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Chacho’s at 3:00 am It’s more than food. It’s an experience.",
+    "entities": [{ "name": "Chacho’s", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Pho Fresh on Main st right behind San Antonio College",
+    "entities": [{ "name": "Pho Fresh", "label": "RESTAURANT" }]
+  },
+  {
+    "text": "Snow pea leaves, pepper squid, and special beef at Royal Inn.",
+    "entities": [{ "name": "Royal Inn", "label": "RESTAURANT" }]
+  }
+]
